@@ -2,4 +2,4 @@
 FROM centos:latest
 
 RUN yum update -y
-RUN yum install -y openssh-server openssh-client
+RUN yum install -y openssh-server openssh-clients

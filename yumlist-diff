@@ -235,9 +235,6 @@ ntp
 ntpdate
 openjpeg-libs
 openldap-clients
-openssh
-openssh-clients
-openssh-server
 openssl
 					openssl-libs
 pakchois
