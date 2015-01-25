@@ -2,6 +2,8 @@
 
 ## Build
 
+Please create the file resource/.authorized_keys, then build the image:
+
 ```bash
-sudo docker build -t ryba/centos
+bin/build
 ```
